@@ -1,0 +1,5 @@
+{
+  "name": "Zero-Day Phishing Detector",
+  "description": "A hybrid visual and lexical analysis system for detecting zero-day phishing websites.",
+  "requestFramePermissions": []
+}
